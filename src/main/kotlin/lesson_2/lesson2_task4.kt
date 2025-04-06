@@ -11,9 +11,9 @@ fun main() {
     val crystal = 7
     val steel = 11
 
-    val baffCrystal = 0.2 * crystal
-    val baffSteel = 0.2 * steel
+    val buffCrystal = 0.2 * crystal
+    val buffSteel = 0.2 * steel
 
-    println(baffCrystal.toInt())
-    println(baffSteel.toInt())
+    println(buffCrystal.toInt())
+    println(buffSteel.toInt())
 }
